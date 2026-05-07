@@ -32,5 +32,3 @@ Dự án được triển khai qua 3 giai đoạn chính:
 - Kết nối **Virtual Terminal** để giám sát dữ liệu truyền qua UART.
 - Kiểm tra tính đúng đắn của logic điều khiển và khả năng chịu tải của hệ thống mô phỏng.
 ---
-**Author:** [Tên của bạn]
-**Project:** Personal Project - Embedded Systems
